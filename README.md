@@ -37,7 +37,6 @@ The application follows a modular architecture with clear separation of concerns
 - **Local AI**: Advanced virtual Assistant with template-based responses
 - **Pattern Recognition**: Extracts learning patterns from user input
 - **Response Templates**: Categorized responses for different interaction types
-- **Czech Language**: Designed for Czech language interactions
 
 ### 4. Data Storage
 - **SQLite Databases**: One database per AI module in the `data` directory
